@@ -1,0 +1,6 @@
+[submodule "asset/altrh"]
+	path = asset/altrh
+	url = https://github.com/mouradauzia/altrh.git
+[submodule "asset/jquery"]
+	path = asset/jquery
+	url = https://github.com/jquery/jquery
